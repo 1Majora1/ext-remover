@@ -1,5 +1,6 @@
 # EXT-REMOVER
 This is a curated list of exploits for ChromeOS. It started with LTBEEF, and now there are more! Some of these exploits can destroy your computer if misused. So PLEASE, PLEASE make sure you follow these instructions very carefully!
+PLEASE PLEASE PLEASE Make an issue if it doesnt work and send me the extension ID
 
 <b>Need help? Ask for help <a href="https://github.com/3kh0/ext-remover/discussions">here</a>!</b>
 
